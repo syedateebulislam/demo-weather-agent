@@ -3,7 +3,7 @@
 An AI-powered weather query system demonstrating **LangChain4j** integration with **Spring Boot**. Users ask natural language questions and receive human-friendly weather responses through an intelligent agent that uses tool-calling capabilities.
 
 ---
-![Uploading weather-agents.gif…]()
+![weather-agents](https://github.com/user-attachments/assets/11b96f7c-c061-49c0-bf6a-f5db4736e1ec)
 
 ---
 
